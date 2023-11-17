@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -68.0591,
+        "lat": -38.9516
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 285.09,
+        "feels_like": 283.46,
+        "temp_min": 284.01,
+        "temp_max": 285.09,
+        "pressure": 1022,
+        "humidity": 43
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 230,
+        "gust": 7.2
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1698727058,
+    "sys": {
+        "type": 1,
+        "id": 8310,
+        "country": "AR",
+        "sunrise": 1698744272,
+        "sunset": 1698793621
+    },
+    "timezone": -10800,
+    "id": 3843123,
+    "name": "Neuquén",
+    "cod": 200
+}
